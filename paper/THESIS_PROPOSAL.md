@@ -148,4 +148,4 @@ The **cost-sensitive-fraud-detection** repository demonstrates:
 
 ## Contact
 
-For questions or collaboration opportunities: antony.susai@example.com
+For questions or collaboration opportunities: antonywithdata@gmail.com
